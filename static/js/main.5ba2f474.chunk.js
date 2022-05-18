@@ -78,7 +78,7 @@
                             className: "Title",
                             children: Object(W.jsx)("h1", {
                                 className: "navbar-logo",
-                                children: "Pink"
+                                children: "PINX GLOBAL EXCHANGE"
                             })
                         }), Object(W.jsx)(t.a, {
                             children: Object(W.jsx)(n.a, {
@@ -97,7 +97,7 @@
                             justifyContent: "center",
                             alignItems: "flex-end",
                             children: Object(W.jsxs)("p", {
-                                children: ["Pink | Get AUT for use in the bakerloo testnet", " ", Object(W.jsx)("a", {
+                                children: ["PINX GLOBAL EXCHANGE | Get AUT for use in the bakerloo testnet", " ", Object(W.jsx)("a", {
                                     href: "https://faucet.bakerloo.autonity.network/",
                                     children: "here"
                                 })]
@@ -748,7 +748,7 @@
                                     className: "Title",
                                     children: Object(W.jsx)("h1", {
                                         className: "navbar-logo",
-                                        children: "Pink"
+                                        children: "PINX GLOBAL EXCHANGE"
                                     })
                                 }), Object(W.jsx)("div", {
                                     className: "NavbarItems",
@@ -1499,7 +1499,7 @@
                             justifyContent: "center",
                             alignItems: "flex-end",
                             children: Object(W.jsxs)("p", {
-                                children: ["Pink | Get AUT for use in the bakerloo testnet", " ", Object(W.jsx)("a", {
+                                children: ["PINX GLOBAL EXCHANGE | Get AUT for use in the bakerloo testnet", " ", Object(W.jsx)("a", {
                                     href: "https://faucet.bakerloo.autonity.network/",
                                     children: "here"
                                 })]
@@ -2553,7 +2553,7 @@
                             justifyContent: "center",
                             alignItems: "flex-end",
                             children: Object(W.jsxs)("p", {
-                                children: ["Pink | Get AUT for use in the bakerloo testnet", " ", Object(W.jsx)("a", {
+                                children: ["PINX GLOBAL EXCHANGE | Get AUT for use in the bakerloo testnet", " ", Object(W.jsx)("a", {
                                     href: "https://faucet.bakerloo.autonity.network/",
                                     children: "here"
                                 })]
